@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body{
+	background: #cccccc;
+	width:1000px;
+}
+h1{
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+.player_one{
+	background:white;
+	margin:10px;
+	border-radius:10px;
+}
+a{
+	padding-left:10px;
+}
+.player_two{
+	width:360px;
+	margin:0 300px;
+	text-align:center;
+	background:white;
+}
+video{
+	padding-top:20px;
+}
+.player_three{
+	border:2px solid red;
+	background:white;
+	text-align:center;
+}
